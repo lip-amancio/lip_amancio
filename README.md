@@ -1,2 +1,2 @@
 # lip_amancio
-Site portifolho de Luis Felipe Fermandes Amancio
+Site portfolio de Luis Felipe Fermandes Amancio @lip_amancio
